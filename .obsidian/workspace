@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Fleeting Notes.md",
+            "file": "Fleeting/next birdleaf ep.md",
             "mode": "source",
             "source": false
           }
@@ -19,110 +19,96 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89e83eec39068ef4",
-    "type": "split",
+    "id": "89b2e08244e92098",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e6a3d4d36abf7b80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a104cc0130973ab",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "38ced0537bbf0c1e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "4a7190b3e72d6ae7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "395d46ab3567205a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2cd31a09793c377b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "0fd55604f336b332",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "413e44210e135960",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "a6ee9e90f1fa15b6",
-    "type": "split",
+    "id": "427d80b9eb991410",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "786c2a849056e71f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "055ed55aaa67292d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Fleeting/Fleeting Notes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6d6a75f7d3bfbae7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "af2eeb2fd074cba2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Fleeting/Fleeting Notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "d3199ae67ea1dbdf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fleeting/next birdleaf ep.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "153c4c6b7463ba12",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Fleeting/next birdleaf ep.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "b012b00d8476ad25",
   "lastOpenFiles": [
+    "Fleeting/next birdleaf ep.md",
+    "Fleeting/git key.md",
     "Fleeting/Fleeting Notes.md",
     "References/Markdown cheat sheet.md",
-    "Fleeting/Untitled.md",
     "Templates/Reference Template.md",
     "Templates/Permanent Template.md",
     "Templates/Fleeting Template.md",

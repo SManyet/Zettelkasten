@@ -1,5 +1,4 @@
 {
   "translucency": false,
-  "textFontFamily": "Iosevka",
-  "monospaceFontFamily": "Iosevka"
+  "baseFontSize": 16
 }

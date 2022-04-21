@@ -1,4 +1,6 @@
 {
+  "textFontFamily": "Iosevka",
+  "monospaceFontFamily": "Iosevka",
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": true,
